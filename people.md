@@ -57,9 +57,8 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 
 <div class="people-list">
 <article class="person">
-  <div class="person-photo-placeholder">Photo</div>
+  <img class="person-photo" src="{{ '/assets/img/people/rui-sun.png' | relative_url }}" alt="Rui Sun" width="160" height="160" loading="lazy">
   <!-- Replace the placeholder above with this line after uploading your photo:
-  <img class="person-photo" src="{{ '/assets/img/people/rui-sun.jpg' | relative_url }}" alt="Rui Sun" width="160" height="160" loading="lazy">
   -->
   <div class="person-details">
     <h3>Rui Sun</h3>
