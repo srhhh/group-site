@@ -121,3 +121,22 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   </div>
 </article>
 </div>
+
+<!-- Copy this article to add another graduate student. -->
+<article class="person">
+  <div class="person-photo-placeholder">Photo</div>
+  <!-- Replace the placeholder above with this line after uploading the photo:
+  <img class="person-photo" src="{{ '/assets/img/people/student-name.jpg' | relative_url }}" alt="[Full name]" width="160" height="160" loading="lazy">
+  -->
+  <div class="person-details">
+    <h3>[Full name]</h3>
+    <p class="person-role">Graduate Student</p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.S., [Field], [University], [Year]</li>
+    </ul>
+    <p><strong>Research interests:</strong> [Add a short description.]</p>
+    <p><strong>Joined:</strong> [Year]</p>
+  </div>
+</article>
+</div>
