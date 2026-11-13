@@ -122,6 +122,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 </article>
 </div>
 
+<div class="people-list">
 <!-- Copy this article to add another graduate student. -->
 <article class="person">
   <div class="person-photo-placeholder">Photo</div>
