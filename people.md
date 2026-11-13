@@ -60,16 +60,14 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/rui-sun.png' | relative_url }}" alt="Rui Sun" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Rui Sun</h3>
-    <p class="person-role">Principal Investigator</p>
+    <p class="person-role">Thomas J. Barton Chair Professor</p>
     <p><strong>Education</strong></p>
     <ul>
-      <li>Ph.D., [Field], [University], [Year]</li>
-      <li>B.S., [Field], [University], [Year]</li>
+      <li>Postdoc, [The University of Chicago]</li>
+      <li>Ph.D., [Texas Tech University]</li>
+      <li>B.S., [Shandong University]</li>
     </ul>
-    <p><strong>Research interests:</strong> [Add a short description.]</p>
-    <!-- Optional: replace with your email address, then remove the comment markers.
-    <p><a href="mailto:your-email@example.com">Email</a></p>
-    -->
+    <p><a href="mailto:ruisun@iastate.edu">Email</a></p>
   </div>
 </article>
 </div>
