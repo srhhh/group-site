@@ -58,8 +58,6 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <div class="people-list">
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/rui-sun.png' | relative_url }}" alt="Rui Sun" width="160" height="160" loading="lazy">
-  <!-- Replace the placeholder above with this line after uploading your photo:
-  -->
   <div class="person-details">
     <h3>Rui Sun</h3>
     <p class="person-role">Principal Investigator</p>
