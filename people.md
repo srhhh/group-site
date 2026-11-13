@@ -63,11 +63,11 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
     <p class="person-role">Thomas J. Barton Chair Professor</p>
     <p><strong>Education</strong></p>
     <ul>
-      <li>Postdoc, [The University of Chicago]</li>
-      <li>Ph.D., [Texas Tech University]</li>
-      <li>B.S., [Shandong University]</li>
+      <li>Postdoc, The University of Chicago</li>
+      <li>Ph.D., Texas Tech University</li>
+      <li>B.S., Shandong University</li>
     </ul>
-    <p><a href="mailto:ruisun@iastate.edu">Email</a></p>
+    <p><a href="mailto:ruisun@iastate.edu">ruisun@iastate.edu</a></p>
   </div>
 </article>
 </div>
