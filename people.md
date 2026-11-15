@@ -104,7 +104,24 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
       <li>M.S., West Bengal State University</li>
       <li>B.S., University of Calcutta</li>
     </ul>
-    <p><a href="mailto:ahamedss@hawaii.edu ">ahamedss@hawaii.edu </a></p>
+    <p><a href="mailto:ahamedss@hawaii.edu">ahamedss@hawaii.edu </a></p>
+  </div>
+</article>
+</div>
+
+<div class="people-list">
+<article class="person">
+  <img class="person-photo" src="{{ '/assets/img/people/Pooja-Chahal.png' | relative_url }}" alt="Pooja Chahal" width="160" height="160" loading="lazy">
+  <div class="person-details">
+    <h3>[Full name]</h3>
+    <p class="person-role">Postdoctoral Researchers</p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>Ph.D., Indian Institute of Technology Ropar</li>
+      <li>M.S., Panjab University</li>
+      <li>B.S., Panjab University</li>
+    </ul>
+    <p><a href="mailto:pchahal@iastate.edu">pchahal@iastate.edu </a></p>
   </div>
 </article>
 </div>
