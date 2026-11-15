@@ -133,7 +133,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Allen-Vincent.png' | relative_url }}" alt="Allen Vincent" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Allen Vincent</h3>
-    <p class="person-role">Graduate Students</p>
+    <p class="person-role">Graduate Student</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>M.S., Vellore Institute of Technology</li>
@@ -149,7 +149,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Mabel-Bernaldez.png' | relative_url }}" alt="Mabel Bernaldez" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Mabel Bernaldez @ UHawaii</h3>
-    <p class="person-role">Graduate Students</p>
+    <p class="person-role">Graduate Student</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>B.S., Chaminade University of Honolulu</li>
@@ -164,7 +164,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Prerana-Bakli.png' | relative_url }}" alt="Prerana Bakli" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Prerana Bakli</h3>
-    <p class="person-role">Graduate Students</p>
+    <p class="person-role">Graduate Student</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>M.S., National Institute of Technology (NIT), Meghalaya </li>
@@ -180,7 +180,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Ritu-Raj.png' | relative_url }}" alt="Ritu Raj" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Ritu Raj</h3>
-    <p class="person-role">Graduate Students</p>
+    <p class="person-role">Graduate Student</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>M.S., National Institute of Science Education and Research Bhubaneswar</li>
@@ -196,7 +196,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Grace-Adler.jpg' | relative_url }}" alt="Grace Adler" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Grace Adler</h3>
-    <p class="person-role">Graduate Students</p>
+    <p class="person-role">Graduate Student</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>B.S., University of Hawaii, Manoa</li>
