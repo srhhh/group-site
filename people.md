@@ -97,7 +97,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Samir-Ahmed.png' | relative_url }}" alt="Samir Ahmed" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Samir Ahmed @ UHawaii</h3>
-    <p class="person-role">Postdoctoral Researchers</p>
+    <p class="person-role">Postdoctoral Researcher</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>Ph.D., National Institute of Technology Meghalaya</li>
@@ -114,7 +114,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
   <img class="person-photo" src="{{ '/assets/img/people/Pooja-Chahal.png' | relative_url }}" alt="Pooja Chahal" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Pooja Chahal</h3>
-    <p class="person-role">Postdoctoral Researchers</p>
+    <p class="person-role">Postdoctoral Researcher</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>Ph.D., Indian Institute of Technology Ropar</li>
