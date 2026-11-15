@@ -72,12 +72,12 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 </article>
 </div>
 
-## Postdoctoral Researchers
+## Research Scientist
 
 <div class="people-list">
 <article class="person">
   <div class="person-photo-placeholder">Photo</div>
-  <img class="person-photo" src="{{ '/assets/img/people/Kazuumi-Fujioka.png' | relative_url }}" alt="Rui Sun" width="160" height="160" loading="lazy">
+  <img class="person-photo" src="{{ '/assets/img/people/Kazuumi-Fujioka.png' | relative_url }}" alt="Kazuumi Fujioka" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>[Full name]</h3>
     <p class="person-role">Research Scientist</p>
@@ -94,22 +94,19 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 ## Postdoctoral Researchers
 
 <div class="people-list">
-<!-- Copy this article to add another postdoctoral researcher. -->
 <article class="person">
   <div class="person-photo-placeholder">Photo</div>
-  <!-- Replace the placeholder above with this line after uploading the photo:
-  <img class="person-photo" src="{{ '/assets/img/people/postdoc-name.jpg' | relative_url }}" alt="[Full name]" width="160" height="160" loading="lazy">
-  -->
+  <img class="person-photo" src="{{ '/assets/img/people/Samir-Ahmed.png' | relative_url }}" alt="Samir Ahmed @ UHawaii" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>[Full name]</h3>
-    <p class="person-role">Postdoctoral Researcher</p>
+    <p class="person-role">Postdoctoral Researchers</p>
     <p><strong>Education</strong></p>
     <ul>
-      <li>Ph.D., [Field], [University], [Year]</li>
-      <li>B.S., [Field], [University], [Year]</li>
+      <li>Ph.D., National Institute of Technology Meghalaya</li>
+      <li>M.S., West Bengal State University</li>
+      <li>B.S., University of Calcutta</li>
     </ul>
-    <p><strong>Research interests:</strong> [Add a short description.]</p>
-    <p><strong>Joined:</strong> [Year]</p>
+    <p><a href="mailto:ahamedss@hawaii.edu ">ahamedss@hawaii.edu </a></p>
   </div>
 </article>
 </div>
