@@ -129,41 +129,79 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 ## Graduate Students
 
 <div class="people-list">
-<!-- Copy this article to add another graduate student. -->
 <article class="person">
-  <div class="person-photo-placeholder">Photo</div>
-  <!-- Replace the placeholder above with this line after uploading the photo:
-  <img class="person-photo" src="{{ '/assets/img/people/student-name.jpg' | relative_url }}" alt="[Full name]" width="160" height="160" loading="lazy">
-  -->
+  <img class="person-photo" src="{{ '/assets/img/people/Allen-Vincent.png' | relative_url }}" alt="Allen Vincent" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>[Full name]</h3>
-    <p class="person-role">Graduate Student</p>
+    <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
-      <li>B.S., [Field], [University], [Year]</li>
+      <li>M.S., Vellore Institute of Technology</li>
+      <li>B.S., St. Xavier’s College</li>
     </ul>
-    <p><strong>Research interests:</strong> [Add a short description.]</p>
-    <p><strong>Joined:</strong> [Year]</p>
+    <p><a href="mailto:allenv7@iastate.edu">allenv7@iastate.edu </a></p>
   </div>
 </article>
 </div>
 
 <div class="people-list">
-<!-- Copy this article to add another graduate student. -->
 <article class="person">
-  <div class="person-photo-placeholder">Photo</div>
-  <!-- Replace the placeholder above with this line after uploading the photo:
-  <img class="person-photo" src="{{ '/assets/img/people/student-name.jpg' | relative_url }}" alt="[Full name]" width="160" height="160" loading="lazy">
-  -->
+  <img class="person-photo" src="{{ '/assets/img/people/Mabel-Bernaldez.png' | relative_url }}" alt="Mabel Bernaldez" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>[Full name]</h3>
-    <p class="person-role">Graduate Student</p>
+    <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
-      <li>B.S., [Field], [University], [Year]</li>
+      <li>B.S., Chaminade University of Honolulu</li>
     </ul>
-    <p><strong>Research interests:</strong> [Add a short description.]</p>
-    <p><strong>Joined:</strong> [Year]</p>
+    <p><a href="mailto:mabelgb@hawaii.edu">mabelgb@hawaii.edu </a></p>
+  </div>
+</article>
+</div>
+
+<div class="people-list">
+<article class="person">
+  <img class="person-photo" src="{{ '/assets/img/people/Prerana-Bakli.png' | relative_url }}" alt="Prerana Bakli" width="160" height="160" loading="lazy">
+  <div class="person-details">
+    <h3>[Full name]</h3>
+    <p class="person-role">Graduate Students</p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>M.S., National Institute of Technology (NIT), Meghalaya </li>
+      <li>B.S., University of Calcutta</li>
+    </ul>
+    <p><a href="mailto:prerana@hawaii.edu">prerana@hawaii.edu </a></p>
+  </div>
+</article>
+</div>
+
+<div class="people-list">
+<article class="person">
+  <img class="person-photo" src="{{ '/assets/img/people/Ritu-Raj.png' | relative_url }}" alt="Ritu Raj" width="160" height="160" loading="lazy">
+  <div class="person-details">
+    <h3>[Full name]</h3>
+    <p class="person-role">Graduate Students</p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>M.S., National Institute of Science Education and Research Bhubaneswar</li>
+      <li>B.S., National Institute of Science Education and Research Bhubaneswar</li>
+    </ul>
+    <p><a href="mailto:rituraj@iastate.edu">rituraj@iastate.edu </a></p>
+  </div>
+</article>
+</div>
+
+<div class="people-list">
+<article class="person">
+  <img class="person-photo" src="{{ '/assets/img/people/Grace-Adler.png' | relative_url }}" alt="Grace Adler" width="160" height="160" loading="lazy">
+  <div class="person-details">
+    <h3>[Full name]</h3>
+    <p class="person-role">Graduate Students</p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.S., University of Hawaii, Manoa</li>
+    </ul>
+    <p><a href="mailto:gadler@iastate.edu">gadler@iastate.edu </a></p>
   </div>
 </article>
 </div>
