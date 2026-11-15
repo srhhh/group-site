@@ -76,7 +76,6 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 
 <div class="people-list">
 <article class="person">
-  <div class="person-photo-placeholder">Photo</div>
   <img class="person-photo" src="{{ '/assets/img/people/Kazuumi-Fujioka.png' | relative_url }}" alt="Kazuumi Fujioka" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>[Full name]</h3>
@@ -95,7 +94,6 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 
 <div class="people-list">
 <article class="person">
-  <div class="person-photo-placeholder">Photo</div>
   <img class="person-photo" src="{{ '/assets/img/people/Samir-Ahmed.png' | relative_url }}" alt="Samir Ahmed @ UHawaii" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>[Full name]</h3>
