@@ -78,7 +78,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Kazuumi-Fujioka.png' | relative_url }}" alt="Kazuumi Fujioka" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Kazuumi Fujioka</h3>
     <p class="person-role">Research Scientist</p>
     <p><strong>Education</strong></p>
     <ul>
@@ -94,9 +94,9 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 
 <div class="people-list">
 <article class="person">
-  <img class="person-photo" src="{{ '/assets/img/people/Samir-Ahmed.png' | relative_url }}" alt="Samir Ahmed @ UHawaii" width="160" height="160" loading="lazy">
+  <img class="person-photo" src="{{ '/assets/img/people/Samir-Ahmed.png' | relative_url }}" alt="Samir Ahmed" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Samir Ahmed @ UHawaii</h3>
     <p class="person-role">Postdoctoral Researchers</p>
     <p><strong>Education</strong></p>
     <ul>
@@ -113,7 +113,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Pooja-Chahal.png' | relative_url }}" alt="Pooja Chahal" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Pooja Chahal</h3>
     <p class="person-role">Postdoctoral Researchers</p>
     <p><strong>Education</strong></p>
     <ul>
@@ -132,7 +132,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Allen-Vincent.png' | relative_url }}" alt="Allen Vincent" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Allen Vincent</h3>
     <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
@@ -148,7 +148,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Mabel-Bernaldez.png' | relative_url }}" alt="Mabel Bernaldez" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Mabel Bernaldez @ UHawaii</h3>
     <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
@@ -163,14 +163,14 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Prerana-Bakli.png' | relative_url }}" alt="Prerana Bakli" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Prerana Bakli</h3>
     <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
       <li>M.S., National Institute of Technology (NIT), Meghalaya </li>
       <li>B.S., University of Calcutta</li>
     </ul>
-    <p><a href="mailto:prerana@hawaii.edu">prerana@hawaii.edu </a></p>
+    <p><a href="mailto:preranab@iastate.edu">preranab@iastate.edu </a></p>
   </div>
 </article>
 </div>
@@ -179,7 +179,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Ritu-Raj.png' | relative_url }}" alt="Ritu Raj" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Ritu Raj</h3>
     <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
@@ -195,7 +195,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 <article class="person">
   <img class="person-photo" src="{{ '/assets/img/people/Grace-Adler.png' | relative_url }}" alt="Grace Adler" width="160" height="160" loading="lazy">
   <div class="person-details">
-    <h3>[Full name]</h3>
+    <h3>Grace Adler</h3>
     <p class="person-role">Graduate Students</p>
     <p><strong>Education</strong></p>
     <ul>
