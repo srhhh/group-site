@@ -193,7 +193,7 @@ Photos are cropped to a consistent square; JPG or PNG files work well.
 
 <div class="people-list">
 <article class="person">
-  <img class="person-photo" src="{{ '/assets/img/people/Grace-Adler.JPG' | relative_url }}" alt="Grace Adler" width="160" height="160" loading="lazy">
+  <img class="person-photo" src="{{ '/assets/img/people/Grace-Adler.jpg' | relative_url }}" alt="Grace Adler" width="160" height="160" loading="lazy">
   <div class="person-details">
     <h3>Grace Adler</h3>
     <p class="person-role">Graduate Students</p>
