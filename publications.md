@@ -10,6 +10,10 @@ permalink: /publications/
 
 ## 2026
 
+<p><strong>88.</strong> <a href="https://doi.org/10.1021/acs.jpclett.6c03291"><strong>Sulfur Dioxide Sulfide (SSO<sub>2</sub>): The Elusive Isovalent Analogue of Sulfur Trioxide (SO<sub>3</sub>)</strong></a><br>
+Mason McAnally, Xilin Bai, Yuheng Luo, Zesen Wang, Jinghui Lu, Ashanie Herath, Chaojiang Zhang, Jia Wang, Andrew M. Turner, Baoyu Song, Yang Pan<sup>*</sup>, Tao Yang<sup>*</sup>, <strong>Rui Sun</strong><sup>*</sup>, Ryan C. Fortenberry<sup>*</sup>, Ralf I. Kaiser<sup>*</sup><br>
+<em>The Journal of Physical Chemistry Letter accepted / advance article, 2026</em></p>
+
 <p><strong>88.</strong> <a href="https://doi.org/10.1039/d6ta06206g"><strong>Carbon dioxide adsorption enthalpies of atomically precise Ag<sub>15</sub>, Ag<sub>9</sub>Cu<sub>6</sub>, and Au<sub>7</sub>Ag<sub>8</sub> nanoclusters</strong></a><br>
 Dalton Compton, Sk. Samir Ahamed, Wesley Yoshida, Yingwei Li<sup>*</sup>, <strong>Rui Sun</strong><sup>*</sup>, Craig M. Jensen<sup>*</sup><br>
 <em>Journal of Materials Chemistry A 14 (63), 43705–43711, 2026</em></p>
@@ -20,7 +24,7 @@ Christopher Kang, Stephen D. Stamatis, Huyen Tran, John P. Rose, <strong>Rui Sun
 <small>• Selected as the <a href="https://pubs.acs.org/jpcbfk/issue/130/43">Cover Art</a></small></p>
 
 <p><strong>86.</strong> <a href="https://doi.org/10.1039/d6sc05084k"><strong>Radical chemistry in atmospheric ice analogs forms persistent trifluoroacetic acid</strong></a><br>
-Mason McAnally, Koushik Mondal, Yuheng Luo, Nils W. Melbourne, Pooja Chahal, Xilin Bai, Jinghui Lu, Baoyu Song, Xinxuan Wang, Andrew M. Turner, Alexandre Bergantini, Souvick Biswas, <strong>Rui Sun</strong><sup>*</sup>, Tao Yang<sup>*</sup>, Ralf I. Kaiser<sup>*</sup><br>
+Mason McAnally<sup>†</sup>, Koushik Mondal<sup>†</sup>, Yuheng Luo, Nils W. Melbourne, Pooja Chahal, Xilin Bai, Jinghui Lu, Baoyu Song, Xinxuan Wang, Andrew M. Turner, Alexandre Bergantini, Souvick Biswas, <strong>Rui Sun</strong><sup>*</sup>, Tao Yang<sup>*</sup>, Ralf I. Kaiser<sup>*</sup><br>
 <em>Chemical Science, accepted / advance article, 2026</em></p>
 
 <p><strong>85.</strong> <a href="https://doi.org/10.1038/s41467-026-78116-5"><strong>Low temperature synthesis of three cyanocyclopentadiene isomers and their role in interstellar cyano PAH formation</strong></a><br>
