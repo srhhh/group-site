@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## 2026
 
-<p><strong>88.</strong> <a href="https://doi.org/10.1021/acs.jpclett.6c03291"><strong>Sulfur Dioxide Sulfide (SSO<sub>2</sub>): The Elusive Isovalent Analogue of Sulfur Trioxide (SO<sub>3</sub>)</strong></a><br>
+<p><strong>89.</strong> <a href="https://doi.org/10.1021/acs.jpclett.6c03291"><strong>Sulfur Dioxide Sulfide (SSO<sub>2</sub>): The Elusive Isovalent Analogue of Sulfur Trioxide (SO<sub>3</sub>)</strong></a><br>
 Mason McAnally, Xilin Bai, Yuheng Luo, Zesen Wang, Jinghui Lu, Ashanie Herath, Chaojiang Zhang, Jia Wang, Andrew M. Turner, Baoyu Song, Yang Pan<sup>*</sup>, Tao Yang<sup>*</sup>, <strong>Rui Sun</strong><sup>*</sup>, Ryan C. Fortenberry<sup>*</sup>, Ralf I. Kaiser<sup>*</sup><br>
 <em>The Journal of Physical Chemistry Letter accepted / advance article, 2026</em></p>
 
